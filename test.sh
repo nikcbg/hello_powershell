@@ -8,3 +8,4 @@ if [ "${out}" == "hello" ];then
 else
   echo "BAD: test fail"
   exit 1
+fi 
