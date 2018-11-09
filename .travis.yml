@@ -10,6 +10,3 @@ install:
   
 script:
 - bash test.sh
-sudo rm /tmp/packages-microsoft-prod.deb
-9
-- export DEBIAN_FRONTEND=noninteractive
