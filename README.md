@@ -4,9 +4,9 @@
 Script that prints "hello"
 
 ### List of files in the repository and their purpose
-- hello.ps1 - Scrip that prints 'hello'.
-- test.sh - Script that calls hello.ps1 and checks if the test pass or fails. 
-- travis.yml - Script for continous integration
+-hello.ps1 - Scrip that prints 'hello'.
+-test.sh - Script that calls hello.ps1 and checks if the test pass or fails. 
+-travis.yml - Script for continous integration
 
 ### How to use this repository:
 * Login to your account in travis.si.org.
