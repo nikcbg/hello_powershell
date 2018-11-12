@@ -25,3 +25,6 @@ Script that prints "hello"
 * Execute `bash test.sh` command to see if the `test.sh` script passes or fails.
 * When you done testing you can exit the test Uuntu box by typing `exit` command. 
 * If you no longer need the Ubuntu box you can delete it by typig `vagrant destroy` command.
+
+### TO DO:
+* Run travis test to check if the script passes or fails.
